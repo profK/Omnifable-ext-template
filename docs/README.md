@@ -20,3 +20,8 @@ To test your code, use the following command line in the terminal at the root of
 _build\windows-x86_64\release\my_name.my_app.bat
 
 I usually stick that in a run.bat file in my root so all I need to type is run
+
+## Limitations and ToDos
+(1) I have not yet written the FAable F# bindings for the python Omniverse Kit library. This
+    Is next on the agenda but right now you can call it by doing literal emits in your F#
+    code. (See https://fable.io/Fable.Python/communicate/py-from-fable.html)
