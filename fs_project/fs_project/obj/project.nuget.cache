@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEWgqTgD8/bwtkfGNLy9n4T/jQZn/XJTCKgGK+JVMVGSIcCBVYiiFQjoDMEcw+pyIeqXXyXxCtLWZjwvN9rvrg==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\omniverse\\omnifable\\source\\extensions\\Omnifable-ext\\fs_project\\fs_project\\fs_project.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpkessel\\.nuget\\packages\\fable.core\\4.2.0\\fable.core.4.2.0.nupkg.sha512",
+    "C:\\Users\\jpkessel\\.nuget\\packages\\fable.python\\4.6.1\\fable.python.4.6.1.nupkg.sha512",
+    "C:\\Users\\jpkessel\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

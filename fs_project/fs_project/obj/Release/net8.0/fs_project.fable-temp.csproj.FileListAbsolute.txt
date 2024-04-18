@@ -1,0 +1,8 @@
+D:\projects\omniverse\omnifable\Omnifable-ext\fs_project\fs_project\bin\Release\net8.0\fs_project.fable-temp.deps.json
+D:\projects\omniverse\omnifable\Omnifable-ext\fs_project\fs_project\obj\Release\net8.0\fs_project.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\omniverse\omnifable\Omnifable-ext\fs_project\fs_project\obj\Release\net8.0\fs_project.fable-temp.AssemblyInfoInputs.cache
+D:\projects\omniverse\omnifable\Omnifable-ext\fs_project\fs_project\obj\Release\net8.0\fs_project.fable-temp.AssemblyInfo.cs
+D:\projects\omniverse\omnifable\source\extensions\Omnifable-ext\fs_project\fs_project\bin\Release\net8.0\fs_project.fable-temp.deps.json
+D:\projects\omniverse\omnifable\source\extensions\Omnifable-ext\fs_project\fs_project\obj\Release\net8.0\fs_project.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\omniverse\omnifable\source\extensions\Omnifable-ext\fs_project\fs_project\obj\Release\net8.0\fs_project.fable-temp.AssemblyInfoInputs.cache
+D:\projects\omniverse\omnifable\source\extensions\Omnifable-ext\fs_project\fs_project\obj\Release\net8.0\fs_project.fable-temp.AssemblyInfo.cs
