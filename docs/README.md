@@ -1,5 +1,4 @@
-# Python Extension Example [example.python_ext]
-
+# F# Extension Example 
 This is an example of an F# Omniverse Kit extension based on the Fable transpiler. It is intended to be copied 
 and serve as a template to create new omniverse extensions in F#.
 
